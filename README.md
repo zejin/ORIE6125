@@ -1,6 +1,13 @@
-# ORIE6125
+# ORIE6125 Project
 
-## Reference
+### Purpose
+
+[1] Implement the thresholding estimator of quadratic functionals
+
+[2] Apply the thresholding estimator of quadratic functionals to test the high-dimensional multifactor
+pricing models and validate the U.S. equity market inefficiency during the 2007-08 financial crisis
+
+### Reference
 
 [1] Jianqing Fan, Philippe Rigollet and Weichen Wang, Estimation of Functionals of Sparse Covariance Matrices, arXiv:1408.5087v1, 2014
 
