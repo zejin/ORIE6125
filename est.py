@@ -47,14 +47,3 @@ def threshold_quad(X, C=1.5):
 
     return [Q_hat, D_hat, Q_hat + D_hat]
 
-# example
-
-np.random.seed(12345)
-
-X = np.random.normal(size=(500, 100))
-X = np.random.normal(size=(5, 10)) 
-
-BS_quad(X)
-CQ_quad(X)
-threshold_quad(X)
-
