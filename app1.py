@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 import sys
 sys.path.append('/home/fs01/zj58/orie6125')
-from fun1 import *
+from est import *
 
 # Estimation of Quadratic Functionals
 
