@@ -32,7 +32,7 @@ def CQ_quad(X):
                           
     return float(s) / n / (n - 1)
 
-def threshold_quad(X, C=1.5):
+def threshold_quad(X, C):
     p, n = X.shape
   
     tau = C * np.sqrt(np.log(p) / float(n))
@@ -47,7 +47,6 @@ def threshold_quad(X, C=1.5):
     D_hat = np.sum(D_matrix) / float(n) / (n - 1) # O(n^2)
 
     return [Q_hat, D_hat, Q_hat + D_hat]
-
 
 
 
