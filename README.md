@@ -4,8 +4,9 @@
 
 [1] Implement the thresholding estimator of quadratic functionals
 
-[2] Apply the thresholding estimator of quadratic functionals to test the high-dimensional multifactor
-pricing models and validate the U.S. equity market inefficiency during the 2007-08 financial crisis
+[2] Apply the thresholding estimator of quadratic functionals to improve the power of the high-dimensional two-sample hypothesis testing for the means
+
+[3] Apply the thresholding estimator of quadratic functionals to test the high-dimensional multifactor pricing models and validate the U.S. equity market inefficiency during the 2007-08 financial crisis
 
 ### Reference
 
