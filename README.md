@@ -1,4 +1,6 @@
-# ORIE6125 Project
+# ORIE6125 
+
+## Course Project
 
 ### Purpose
 
